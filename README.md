@@ -1,2 +1,2 @@
 # CExamples
-Some code examples for everyone, why not?
+Some C codes for everyone, why not?
